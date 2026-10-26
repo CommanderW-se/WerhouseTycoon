@@ -1,0 +1,182 @@
+[
+  {
+    "Name": "Better Workbenches",
+    "Description": "Improve workstations to produce 1 extra product per turn.",
+    "Type": "Production",
+    "Amount": 1
+  },
+  {
+    "Name": "Basic Conveyor Belt",
+    "Description": "Move goods faster and produce 2 extra products per turn.",
+    "Type": "Production",
+    "Amount": 2
+  },
+  {
+    "Name": "Extra Packing Station",
+    "Description": "Add another packing station for 3 extra products per turn.",
+    "Type": "Production",
+    "Amount": 3
+  },
+  {
+    "Name": "Forklift Fleet",
+    "Description": "Speed up internal transport by 4 products per turn.",
+    "Type": "Production",
+    "Amount": 4
+  },
+  {
+    "Name": "Assembly Line",
+    "Description": "Set up an assembly line for 6 extra products per turn.",
+    "Type": "Production",
+    "Amount": 6
+  },
+  {
+    "Name": "Sorting Machines",
+    "Description": "Automate sorting for 8 extra products per turn.",
+    "Type": "Production",
+    "Amount": 8
+  },
+  {
+    "Name": "Industrial Robotics",
+    "Description": "Install robots to produce 12 extra products per turn.",
+    "Type": "Production",
+    "Amount": 12
+  },
+  {
+    "Name": "High-Speed Machinery",
+    "Description": "Upgrade manufacturing machines for 16 extra products per turn.",
+    "Type": "Production",
+    "Amount": 16
+  },
+  {
+    "Name": "Automated Warehouse",
+    "Description": "Automate routine warehouse tasks for 24 extra products per turn.",
+    "Type": "Production",
+    "Amount": 24
+  },
+  {
+    "Name": "Smart Factory Software",
+    "Description": "Optimize production schedules for 32 extra products per turn.",
+    "Type": "Production",
+    "Amount": 32
+  },
+  {
+    "Name": "Advanced Robotics",
+    "Description": "Use next-generation robots for 45 extra products per turn.",
+    "Type": "Production",
+    "Amount": 45
+  },
+  {
+    "Name": "Fully Autonomous Production",
+    "Description": "Run a nearly autonomous production floor for 60 extra products per turn.",
+    "Type": "Production",
+    "Amount": 60
+  },
+  {
+    "Name": "Extra Shelves",
+    "Description": "Install additional shelving for 10 more storage spaces.",
+    "Type": "Capacity",
+    "Amount": 10
+  },
+  {
+    "Name": "Storage Racks",
+    "Description": "Upgrade to industrial racks for 20 more storage spaces.",
+    "Type": "Capacity",
+    "Amount": 20
+  },
+  {
+    "Name": "Small Storage Room",
+    "Description": "Build a side room that holds 35 more products.",
+    "Type": "Capacity",
+    "Amount": 35
+  },
+  {
+    "Name": "Vertical Storage",
+    "Description": "Make better use of warehouse height for 50 more products.",
+    "Type": "Capacity",
+    "Amount": 50
+  },
+  {
+    "Name": "Warehouse Expansion",
+    "Description": "Extend the warehouse to fit 80 more products.",
+    "Type": "Capacity",
+    "Amount": 80
+  },
+  {
+    "Name": "Modular Storage Units",
+    "Description": "Install modular units for 120 more products.",
+    "Type": "Capacity",
+    "Amount": 120
+  },
+  {
+    "Name": "Second Warehouse",
+    "Description": "Open another storage building with room for 200 products.",
+    "Type": "Capacity",
+    "Amount": 200
+  },
+  {
+    "Name": "Automated Storage System",
+    "Description": "Use automated racks to store 300 additional products.",
+    "Type": "Capacity",
+    "Amount": 300
+  },
+  {
+    "Name": "Distribution Center",
+    "Description": "Create a distribution center with space for 450 more products.",
+    "Type": "Capacity",
+    "Amount": 450
+  },
+  {
+    "Name": "Regional Storage Hub",
+    "Description": "Expand into a regional storage hub with 700 more spaces.",
+    "Type": "Capacity",
+    "Amount": 700
+  },
+  {
+    "Name": "Logistics Megacenter",
+    "Description": "Build a logistics megacenter to store 1000 more products.",
+    "Type": "Capacity",
+    "Amount": 1000
+  },
+  {
+    "Name": "Global Warehouse Network",
+    "Description": "Link warehouses around the world for 1500 more storage spaces.",
+    "Type": "Capacity",
+    "Amount": 1500
+  },
+  {
+    "Name": "Local Flyers",
+    "Description": "Advertise locally to gain 1 fame.",
+    "Type": "Fame",
+    "Amount": 1
+  },
+  {
+    "Name": "Social Media Campaign",
+    "Description": "Promote the company online to gain 3 fame.",
+    "Type": "Fame",
+    "Amount": 3
+  },
+  {
+    "Name": "Community Sponsorship",
+    "Description": "Sponsor local events to gain 5 fame.",
+    "Type": "Fame",
+    "Amount": 5
+  },
+  {
+    "Name": "Radio Advertising",
+    "Description": "Run radio ads to gain 8 fame.",
+    "Type": "Fame",
+    "Amount": 8
+  },
+  {
+    "Name": "National Marketing Campaign",
+    "Description": "Advertise nationwide to gain 15 fame.",
+    "Type": "Fame",
+    "Amount": 15
+  },
+  {
+    "Name": "International Brand Deal",
+    "Description": "Sign an international brand deal to gain 25 fame.",
+    "Type": "Fame",
+    "Amount": 25
+  }
+]
